@@ -1,0 +1,8 @@
+baseURL = "https://kabusch940.github.io/mein-blog/"
+title   = "Mein IT-Support-Blog"
+theme   = "PaperMod"
+
+mainSections = ["posts"]
+
+[params]
+  author = "M"
