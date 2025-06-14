@@ -4,5 +4,23 @@ theme   = "PaperMod"
 
 mainSections = ["posts"]
 
+[[menu.main]]
+  identifier = "home"
+  name       = "Home"
+  url        = "/"
+  weight     = 1
+
+[[menu.main]]
+  identifier = "about"
+  name       = "Über mich"
+  url        = "/about/"
+  weight     = 2
+
+[[menu.main]]
+  identifier = "labs"
+  name       = "Labs"
+  url        = "/labs/"
+  weight     = 3
+
 [params]
   author = "M"
